@@ -1,4 +1,4 @@
-## Hi there 👋
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AAf6r7EPoss/0.jpg)](https://www.youtube.com/watch?v=AAf6r7EPoss)
 
 <!--
 **sasamiyatu/sasamiyatu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
