@@ -1,6 +1,7 @@
 I like torturing graphics cards and rendering shiny pixels.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/AAf6r7EPoss/0.jpg)](https://www.youtube.com/watch?v=AAf6r7EPoss)
+
 (Click me for a demo video)
 
 <!--
